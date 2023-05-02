@@ -47,7 +47,7 @@
   {
     "id": 2,
     "name": "Chicken Alfredo",
-    "img": "https://i.ibb.co/SvcjqxB/chief-cook-woman-13192968.jpg",
+    "img": "https://i.ibb.co/rMQ9Rfp/Chicken-Alfredo.jpg",
     "rating": 4.3,
     "recipe":"To make chicken Alfredo, cook pasta according to package instructions. In a separate pan, sauté chicken breast in butter, garlic, and Italian seasoning until cooked through. Add heavy cream, Parmesan cheese, and salt and pepper to taste. Toss the cooked pasta with the sauce and chicken."
    
@@ -56,7 +56,7 @@
   {
     "id": 3,
     "name": "Ceviche",
-    "img": "https://i.ibb.co/SvcjqxB/chief-cook-woman-13192968.jpg",
+    "img": "https://i.ibb.co/NtLwhVW/Ceviche.jpg",
     "rating": 4.3,
     "recipe":"To make ceviche, marinate fresh raw fish fillets in lime juice for several hours until the acid cooks the fish. Add diced onions, peppers, cilantro, and seasonings to taste."
   }
@@ -64,7 +64,7 @@
   {
     "id": 3,
     "name": "Chicken Curry",
-    "img": "https://i.ibb.co/SvcjqxB/chief-cook-woman-13192968.jpg",
+    "img": "https://i.ibb.co/sFRX2rH/Chicken-Curry.jpg",
     "rating": 4.3,
     "recipe":" To make chicken curry, sauté onions, garlic, and ginger in oil, then add curry powder, cumin, coriander, and diced chicken breast. Add coconut milk and simmer until the chicken is cooked through. Serve with rice or naan bread."
   }
@@ -95,7 +95,7 @@
   {
     "id": 4,
     "name": "Grilled Salmon",
-    "img": "",
+    "img": "https://i.ibb.co/TcpQ3mh/Grilled-Chicken.jpg",
     "rating": 4.6,
     
     "recipe":"A simple and healthy dish that involves grilling fresh salmon fillets with lemon, herbs, and spices."
@@ -103,14 +103,14 @@
   {
     "id": 4,
     "name": "Chicken Parmesan",
-    "img": "",
+    "img": "https://i.ibb.co/bPdRWG6/Chicken-Parmesan.jpg",
     "rating": 4.6,
     "recipe":"To make chicken Parmesan, bread chicken breast in a mixture of breadcrumbs, Parmesan cheese, and Italian seasoning. Fry in oil until golden brown, then top with tomato sauce and mozzarella cheese. Bake in the oven until the cheese is melted and bubbly."
   },
   {
     "id": 5,
     "name": "Pan-Seared Trout",
-    "img": "",
+    "img": "https://i.ibb.co/c6jrRLz/Pan-Seared-Trout.jpg",
     "rating": 4.6,
     "recipe":"A quick and easy dish that involves pan-searing fresh trout fillets with butter and herbs."
   },
