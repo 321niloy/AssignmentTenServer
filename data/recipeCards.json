@@ -2,14 +2,14 @@
     {
     "id": 1,
     "name": "Fish Curry",
-    "img": "",
+    "img": "https://i.ibb.co/1bBNL37/fishcurry.jpg",
     "rating": 4.8,
     "recipe":"Fish curry is a delicious and flavorful dish that is perfect for a hearty meal. Made with firm white fish fillets, onions, garlic, green chillies, and a range of spices, this curry is full of aromatic and bold flavors. The addition of coconut milk adds a creamy and rich texture to the curry, which pairs perfectly with steamed rice or naan bread. With just a few simple steps, you can make a mouth-watering fish curry that is sure to impress your family and friends."
   },
   {
     "id": 1,
     "name": "Pesto Baked SelMon",
-    "img": "",
+    "img": "https://i.ibb.co/fpjMNKJ/Pesto-Baked-Sel-Mon.jpg",
     "rating": 4,
     "recipe":"Pesto Baked Salmon is a delicious and healthy dish that is perfect for a quick and easy dinner. Made with fresh salmon fillets, pesto sauce, and a range of herbs and spices, this dish is bursting with flavor. The salmon is baked in the oven until it is tender and flaky, while the pesto sauce adds a rich and savory taste to the dish. With its vibrant green color and fragrant aroma, this Pesto Baked Salmon is a dish that is sure to impress. Serve it with a side of roasted vegetables or a salad for a nutritious and satisfying meal that your family and friends will love."
     
@@ -17,21 +17,21 @@
   {
     "id": 1,
     "name": "selmon with Cappers",
-    "img": "",
+    "img": "https://i.ibb.co/84SDnwS/selmon-with-Cappers.jpg",
     "rating": 4.9,
     "recipe":"Salmon with Capers is a classic and delicious dish that is simple to make yet full of flavor. To make this dish, you'll need fresh salmon fillets, capers, lemon juice, butter, and a few other ingredients. The salmon is seasoned with salt and pepper and then pan-seared until it is golden brown on the outside and tender on the inside. The capers and lemon juice are then added to the pan to create a tangy and savory sauce that perfectly complements the flavor of the salmon. The addition of butter at the end gives the dish a rich and velvety texture. This Salmon with Capers is a versatile dish that can be served for lunch or dinner, and it pairs well with a variety of sides, such as steamed vegetables, rice, or potatoes. It's a great option for a quick and easy meal that is sure to satisfy your cravings for something delicious and nutritious."
   },
   {
     "id": 2,
     "name": "Smoked Salmon",
-    "img": "",
+    "img": "https://i.ibb.co/JvmBWjz/Smoked-Salmon.jpg",
     "rating": 4.7,
     "recipe":"To make smoked salmon, cure fresh salmon fillets in a mix of salt, sugar, and herbs, then smoke over wood chips until tender and flavorful. Serve with bagels, cream cheese, and capers."
   },
   {
     "id": 2,
     "name": "Lemon Garlic Roast Chicken",
-    "img": "",
+    "img": "https://i.ibb.co/y6j1N0j/Lemon-Garlic-Roast-Chicken.jpg",
     "rating": 4.6,
     "number": 2,
     "recipe":"To make a lemon garlic roast chicken, preheat your oven to 375°F. Season a whole chicken with salt, pepper, and paprika. Stuff the cavity of the chicken with lemon wedges and garlic cloves. Place the chicken in a roasting pan and bake for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F. Let the chicken rest for 10 minutes before carving and serving. Optional: make a sauce with the pan drippings, lemon juice, and garlic."
@@ -39,7 +39,7 @@
   {
     "id": 2,
     "name": "Poached Salmon",
-    "img": "https://i.ibb.co/SvcjqxB/chief-cook-woman-13192968.jpg",
+    "img": "https://i.ibb.co/0Y2kVjX/Poached-Salmon.jpg",
     "rating": 4.3,
     "recipe":"To make poached salmon, simmer fresh salmon fillets in a seasoned liquid such as white wine or vegetable broth until cooked through. Serve with a simple herb or citrus sauce."
   }
@@ -72,7 +72,7 @@
   {
     "id": 3,
     "name": "Fish Chowder",
-    "img": "https://i.ibb.co/SvcjqxB/chief-cook-woman-13192968.jpg",
+    "img": "https://i.ibb.co/nw1bz1Z/Fish-Chowder.jpg",
     "rating": 4.3,
     "recipe":"To make fish chowder, sauté onions, celery, and carrots in butter, then add fish stock, potatoes, and fresh fish fillets. Simmer until the fish is cooked through and serve with crusty bread."
   }
