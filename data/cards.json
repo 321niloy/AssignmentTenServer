@@ -1,0 +1,49 @@
+[
+    {
+    "id": 1,
+    "name": "Tamalika Roy",
+    "img": "https://i.ibb.co/hWvrbDn/istockphoto-135135298-612x612.jpg",
+    "rating": 4.8,
+    "number": 3,
+    "experience":"Two Years"
+  },
+  {
+    "id": 2,
+    "name": "Tanmoy Bashak",
+    "img": "https://i.ibb.co/52n3dqY/jj.webp",
+    "number": 4,
+    "experience":"Three Years"
+  },
+  {
+    "id": 3,
+    "name": "Sumit roy",
+    "img": "https://i.ibb.co/C7VCV4D/depositphotos-89654792-stock-photo-portrait-of-smiling-chief-cook.jpg",
+    "rating": 4.9,
+    "number": 4,
+    "experience":"1.5 Years"
+  },
+  {
+    "id": 4,
+    "name": "Anik patwoary",
+    "img": "https://i.ibb.co/7nYvDRW/png-transparent-chef-s-uniform-celebrity-chef-chief-cook-others-thumbnail.png",
+    "rating": 4.7,
+    "number": 3,
+    "experience":"3.5 Years"
+  },
+  {
+    "id": 5,
+    "name": "Md.Nogen",
+    "img": "https://i.ibb.co/Nm15ppP/Cheifo.jpg",
+    "rating": 4.6,
+    "number": 2,
+    "experience":"2.5 Years"
+  },
+  {
+    "id": 6,
+    "name": "Johirul islam",
+    "img": "https://i.ibb.co/SvcjqxB/chief-cook-woman-13192968.jpg",
+    "rating": 4.3,
+    "number": 3,
+    "experience":"1.5 Years"
+  }
+]
