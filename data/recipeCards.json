@@ -117,7 +117,7 @@
   {
     "id": 5,
     "name": "Chicken and Dumplings",
-    "img": "",
+    "img": "https://i.ibb.co/R4VK43S/Chicken-and-Dumplings.jpg",
     "rating": 4.6,
     "number": 2,
     "recipe":"To make chicken and dumplings, cook diced chicken breast in a pot with vegetables such as carrots, celery, and onion. Add chicken stock and simmer until the chicken is cooked through. Drop dumpling dough made with flour, baking powder, and milk into the pot and cook until fluffy."
@@ -125,7 +125,7 @@
   {
     "id": 6,
     "name": "Mutton Stew",
-    "img": "",
+    "img": "https://i.ibb.co/2NC27B7/Mutton-Stew.jpg",
     "rating": 4.6,
     "number": 2,
     "recipe":" To make Mutton Stew, brown mutton pieces in oil, then add onions, carrots, celery, and potatoes, along with beef broth and herbs such as thyme and bay leaves. Simmer until the meat and vegetables are tender and the flavors meld together."
@@ -133,7 +133,7 @@
   {
     "id": 6,
     "name": "Chicken Caesar Salad",
-    "img": "",
+    "img": "https://i.ibb.co/qY00fXp/Chicken-Caesar-Salad.jpg",
     "rating": 4.6,
     "number": 2,
     "recipe":" To make chicken Caesar salad, grill or sauté chicken breast until cooked through. Serve on a bed of romaine lettuce with Caesar dressing, croutons, and grated Parmesan cheese."
@@ -141,7 +141,7 @@
   {
     "id": 6,
     "name": "Mutton Keema",
-    "img": "",
+    "img": "https://i.ibb.co/xHJnJ3z/Mutton-Keema.jpg",
     "rating": 4.6,
     "number": 2,
     "recipe":"To make Mutton Keema, sauté onions, ginger, and garlic in oil, then add ground mutton and cook until browned. Add spices such as cumin, coriander, and chili powder, along with canned tomatoes and green peas, and cook until the mixture is fragrant and the flavors have melded together. Serve with rice or naan bread."
