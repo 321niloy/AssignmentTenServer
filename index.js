@@ -18,7 +18,11 @@ app.get('/Allrecipe', (req, res) => {
   res.send(Allrecipe)
 })
 
-
+app.get('/card/:id', (req,res) =>{
+  const id = parseInt(req.params.id)
+  const newSpecificCard = card.find(c => c.id ===id)
+  res.send(newSpecificCard)
+})
 
 app.get('/Allrecipe/:id', (req,res)=>{
   const id = parseInt(req.params.id)
