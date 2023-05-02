@@ -19,6 +19,13 @@ app.get('/Allrecipe', (req, res) => {
 })
 
 
+
+app.get('/Allrecipe/:id', (req,res)=>{
+  const id = parseInt(req.params.id)
+  const Recipesid = Allrecipe.filter(c => c.id === id)
+  res.send(Recipesid)
+})
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
