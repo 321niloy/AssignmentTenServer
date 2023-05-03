@@ -4,13 +4,15 @@
     "name": "Fish Curry",
     "img": "https://i.ibb.co/1bBNL37/fishcurry.jpg",
     "rating": 4.8,
-    "recipe":"Fish curry is a delicious and flavorful dish that is perfect for a hearty meal. Made with firm white fish fillets, onions, garlic, green chillies, and a range of spices, this curry is full of aromatic and bold flavors. The addition of coconut milk adds a creamy and rich texture to the curry, which pairs perfectly with steamed rice or naan bread. With just a few simple steps, you can make a mouth-watering fish curry that is sure to impress your family and friends."
+    "recipe":"Fish curry is a delicious and flavorful dish that is perfect for a hearty meal. Made with firm white fish fillets, onions, garlic, green chillies, and a range of spices, this curry is full of aromatic and bold flavors. The addition of coconut milk adds a creamy and rich texture to the curry, which pairs perfectly with steamed rice or naan bread. With just a few simple steps, you can make a mouth-watering fish curry that is sure to impress your family and friends.",
+    "code":1
   },
   {
     "id": 1,
     "name": "Pesto Baked SelMon",
     "img": "https://i.ibb.co/fpjMNKJ/Pesto-Baked-Sel-Mon.jpg",
     "rating": 4,
+    "code":2,
     "recipe":"Pesto Baked Salmon is a delicious and healthy dish that is perfect for a quick and easy dinner. Made with fresh salmon fillets, pesto sauce, and a range of herbs and spices, this dish is bursting with flavor. The salmon is baked in the oven until it is tender and flaky, while the pesto sauce adds a rich and savory taste to the dish. With its vibrant green color and fragrant aroma, this Pesto Baked Salmon is a dish that is sure to impress. Serve it with a side of roasted vegetables or a salad for a nutritious and satisfying meal that your family and friends will love."
     
   },
@@ -19,6 +21,7 @@
     "name": "selmon with Cappers",
     "img": "https://i.ibb.co/84SDnwS/selmon-with-Cappers.jpg",
     "rating": 4.9,
+    "code":3,
     "recipe":"Salmon with Capers is a classic and delicious dish that is simple to make yet full of flavor. To make this dish, you'll need fresh salmon fillets, capers, lemon juice, butter, and a few other ingredients. The salmon is seasoned with salt and pepper and then pan-seared until it is golden brown on the outside and tender on the inside. The capers and lemon juice are then added to the pan to create a tangy and savory sauce that perfectly complements the flavor of the salmon. The addition of butter at the end gives the dish a rich and velvety texture. This Salmon with Capers is a versatile dish that can be served for lunch or dinner, and it pairs well with a variety of sides, such as steamed vegetables, rice, or potatoes. It's a great option for a quick and easy meal that is sure to satisfy your cravings for something delicious and nutritious."
   },
   {
@@ -26,6 +29,7 @@
     "name": "Smoked Salmon",
     "img": "https://i.ibb.co/JvmBWjz/Smoked-Salmon.jpg",
     "rating": 4.7,
+    "code":4,
     "recipe":"To make smoked salmon, cure fresh salmon fillets in a mix of salt, sugar, and herbs, then smoke over wood chips until tender and flavorful. Serve with bagels, cream cheese, and capers."
   },
   {
@@ -33,7 +37,7 @@
     "name": "Lemon Garlic Roast Chicken",
     "img": "https://i.ibb.co/y6j1N0j/Lemon-Garlic-Roast-Chicken.jpg",
     "rating": 4.6,
-    "number": 2,
+    "code":5,
     "recipe":"To make a lemon garlic roast chicken, preheat your oven to 375°F. Season a whole chicken with salt, pepper, and paprika. Stuff the cavity of the chicken with lemon wedges and garlic cloves. Place the chicken in a roasting pan and bake for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F. Let the chicken rest for 10 minutes before carving and serving. Optional: make a sauce with the pan drippings, lemon juice, and garlic."
   },
   {
@@ -41,6 +45,7 @@
     "name": "Poached Salmon",
     "img": "https://i.ibb.co/0Y2kVjX/Poached-Salmon.jpg",
     "rating": 4.3,
+    "code":6,
     "recipe":"To make poached salmon, simmer fresh salmon fillets in a seasoned liquid such as white wine or vegetable broth until cooked through. Serve with a simple herb or citrus sauce."
   }
   ,
@@ -49,6 +54,7 @@
     "name": "Chicken Alfredo",
     "img": "https://i.ibb.co/rMQ9Rfp/Chicken-Alfredo.jpg",
     "rating": 4.3,
+    "code":7,
     "recipe":"To make chicken Alfredo, cook pasta according to package instructions. In a separate pan, sauté chicken breast in butter, garlic, and Italian seasoning until cooked through. Add heavy cream, Parmesan cheese, and salt and pepper to taste. Toss the cooked pasta with the sauce and chicken."
    
   }
@@ -58,6 +64,7 @@
     "name": "Ceviche",
     "img": "https://i.ibb.co/NtLwhVW/Ceviche.jpg",
     "rating": 4.3,
+    "code":8,
     "recipe":"To make ceviche, marinate fresh raw fish fillets in lime juice for several hours until the acid cooks the fish. Add diced onions, peppers, cilantro, and seasonings to taste."
   }
   ,
@@ -66,6 +73,7 @@
     "name": "Chicken Curry",
     "img": "https://i.ibb.co/sFRX2rH/Chicken-Curry.jpg",
     "rating": 4.3,
+    "code":9,
     "recipe":" To make chicken curry, sauté onions, garlic, and ginger in oil, then add curry powder, cumin, coriander, and diced chicken breast. Add coconut milk and simmer until the chicken is cooked through. Serve with rice or naan bread."
   }
   ,
@@ -74,6 +82,7 @@
     "name": "Fish Chowder",
     "img": "https://i.ibb.co/nw1bz1Z/Fish-Chowder.jpg",
     "rating": 4.3,
+    "code":10,
     "recipe":"To make fish chowder, sauté onions, celery, and carrots in butter, then add fish stock, potatoes, and fresh fish fillets. Simmer until the fish is cooked through and serve with crusty bread."
   }
   ,
@@ -82,6 +91,7 @@
     "name": "Grilled Chicken",
     "img": "https://i.ibb.co/SvcjqxB/chief-cook-woman-13192968.jpg",
     "rating": 4.3,
+    "code":11,
     "recipe":"To make grilled chicken, marinate chicken breast in a mixture of olive oil, lemon juice, garlic, and herbs such as thyme or rosemary for at least 30 minutes. Grill over medium heat until cooked through."
   },
   {
@@ -89,7 +99,7 @@
     "name": "Mutton Curry",
     "img": "",
     "rating": 4.6,
-   
+    "code":12,
     "recipe":"To make Mutton Curry, sauté onions, ginger, and garlic in oil, then add mutton pieces and cook until browned. Add spices such as cumin, coriander, and turmeric, along with canned tomatoes and coconut milk, and simmer until the meat is tender and the sauce is thick and flavorful."
   },
   {
@@ -97,7 +107,7 @@
     "name": "Grilled Salmon",
     "img": "https://i.ibb.co/TcpQ3mh/Grilled-Chicken.jpg",
     "rating": 4.6,
-    
+    "code":13,
     "recipe":"A simple and healthy dish that involves grilling fresh salmon fillets with lemon, herbs, and spices."
   },
   {
@@ -105,6 +115,7 @@
     "name": "Chicken Parmesan",
     "img": "https://i.ibb.co/bPdRWG6/Chicken-Parmesan.jpg",
     "rating": 4.6,
+    "code":14,
     "recipe":"To make chicken Parmesan, bread chicken breast in a mixture of breadcrumbs, Parmesan cheese, and Italian seasoning. Fry in oil until golden brown, then top with tomato sauce and mozzarella cheese. Bake in the oven until the cheese is melted and bubbly."
   },
   {
@@ -112,6 +123,7 @@
     "name": "Pan-Seared Trout",
     "img": "https://i.ibb.co/c6jrRLz/Pan-Seared-Trout.jpg",
     "rating": 4.6,
+    "code":15,
     "recipe":"A quick and easy dish that involves pan-searing fresh trout fillets with butter and herbs."
   },
   {
@@ -119,7 +131,8 @@
     "name": "Chicken and Dumplings",
     "img": "https://i.ibb.co/R4VK43S/Chicken-and-Dumplings.jpg",
     "rating": 4.6,
-    "number": 2,
+   
+    "code":16,
     "recipe":"To make chicken and dumplings, cook diced chicken breast in a pot with vegetables such as carrots, celery, and onion. Add chicken stock and simmer until the chicken is cooked through. Drop dumpling dough made with flour, baking powder, and milk into the pot and cook until fluffy."
   },
   {
@@ -127,7 +140,8 @@
     "name": "Mutton Stew",
     "img": "https://i.ibb.co/2NC27B7/Mutton-Stew.jpg",
     "rating": 4.6,
-    "number": 2,
+    
+    "code":17,
     "recipe":" To make Mutton Stew, brown mutton pieces in oil, then add onions, carrots, celery, and potatoes, along with beef broth and herbs such as thyme and bay leaves. Simmer until the meat and vegetables are tender and the flavors meld together."
   },
   {
@@ -135,7 +149,8 @@
     "name": "Chicken Caesar Salad",
     "img": "https://i.ibb.co/qY00fXp/Chicken-Caesar-Salad.jpg",
     "rating": 4.6,
-    "number": 2,
+   
+    "code":18,
     "recipe":" To make chicken Caesar salad, grill or sauté chicken breast until cooked through. Serve on a bed of romaine lettuce with Caesar dressing, croutons, and grated Parmesan cheese."
   },
   {
@@ -143,7 +158,7 @@
     "name": "Mutton Keema",
     "img": "https://i.ibb.co/xHJnJ3z/Mutton-Keema.jpg",
     "rating": 4.6,
-    "number": 2,
+    "code":19,
     "recipe":"To make Mutton Keema, sauté onions, ginger, and garlic in oil, then add ground mutton and cook until browned. Add spices such as cumin, coriander, and chili powder, along with canned tomatoes and green peas, and cook until the mixture is fragrant and the flavors have melded together. Serve with rice or naan bread."
   }
 ]
