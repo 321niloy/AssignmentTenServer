@@ -89,7 +89,7 @@
   {
     "id": 3,
     "name": "Grilled Chicken",
-    "img": "https://i.ibb.co/SvcjqxB/chief-cook-woman-13192968.jpg",
+    "img": "https://i.ibb.co/TcpQ3mh/Grilled-Chicken.jpg",
     "rating": 4.3,
     "code":11,
     "recipe":"To make grilled chicken, marinate chicken breast in a mixture of olive oil, lemon juice, garlic, and herbs such as thyme or rosemary for at least 30 minutes. Grill over medium heat until cooked through."
@@ -97,7 +97,7 @@
   {
     "id": 4,
     "name": "Mutton Curry",
-    "img": "",
+    "img": "https://i.ibb.co/ggBRGtB/Mutton-Curry.jpg",
     "rating": 4.6,
     "code":12,
     "recipe":"To make Mutton Curry, sauté onions, ginger, and garlic in oil, then add mutton pieces and cook until browned. Add spices such as cumin, coriander, and turmeric, along with canned tomatoes and coconut milk, and simmer until the meat is tender and the sauce is thick and flavorful."
